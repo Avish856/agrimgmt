@@ -1,0 +1,82 @@
+body{
+
+    background-color: bisque;
+    background-image: url('https://th.bing.com/th/id/OIP.OGqbubZZiXd26IXmrFEgsQHaEo?pid=ImgDet&rs=1');
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td{
+    background-color: azure;
+    width:500px;
+    height:100px;
+}
+th{
+    background-color: aliceblue;
+    width:400px;
+    height:50px;
+}
+.table{
+    caption-side:top;
+    position: relative;
+    top: 100px;
+    left: 0px;
+    margin:auto;
+}
+.but{
+    background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float:right;
+  position: relative;
+  bottom: 180px;
+  right: 450px;
+}
+.fa{
+    position: relative;
+    left: 45px;
+    top: 50px;
+}
+
+input{
+    width: 160px;
+    height:30px;
+}
+
+.bu{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: relative;
+    bottom:-200px;;
+    left:500px;
+}
+.pro{
+    position: relative;
+    left: 450px;
+    top: 200px;
+}
+
+input{
+    width: 160px;
+    height:30px;
+}
